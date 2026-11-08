@@ -104,7 +104,7 @@ function Footer() {
             <span className="text-solar-400">{BUSINESS.tagline}.</span>
           </p>
           <p className="text-center text-sm text-gray-500 max-w-2xl mx-auto leading-relaxed">
-            <strong className="text-gray-400">Disclaimer:</strong> All installations and warranties
+            <strong className="text-gray-400">Disclaimer:</strong> Warranties
             are fulfilled directly by brand partners ({BUSINESS.brandPartners.join(', ')}).
           </p>
           <p className="text-center text-xs text-gray-600 flex items-center justify-center gap-1">

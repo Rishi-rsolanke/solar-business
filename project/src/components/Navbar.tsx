@@ -47,7 +47,7 @@ function Navbar() {
                   scrolled ? 'text-energy-600' : 'text-solar-400'
                 }`}
               >
-                Dynamic System
+                Dynamic Solution
               </span>
             </div>
           </a>

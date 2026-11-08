@@ -48,7 +48,7 @@ function Hero() {
           >
             Get up to <span className="text-solar-400 font-semibold">₹78,000 Government Subsidy</span> under
             PM-Surya Ghar Yojana. Premium Brand Installation{' '}
-            <span className="text-white font-semibold">(Loom Solar, Waaree, UTL & Adani)</span> with{' '}
+            <span className="text-white font-semibold">(Waaree, Loom Solar, UTL & Adani)</span> with{' '}
             <span className="text-energy-400 font-semibold">25 Years Warranty</span> across Maharashtra.
           </p>
 

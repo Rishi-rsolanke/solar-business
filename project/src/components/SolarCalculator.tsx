@@ -27,7 +27,7 @@ export function useCalculator(bill: number): CalculatorResults {
     const safeBill = Math.max(0, isNaN(bill) ? 0 : bill);
     const rawSize = safeBill / 1000;
     const plantSize = Math.min(10, Math.max(1, Math.round(rawSize)));
-    const investment = plantSize * 65000;
+    const investment = plantSize * 66333.3333333;
     const subsidy = plantSize === 1 ? 30000 : plantSize === 2 ? 60000 : 78000;
     const effectiveCost = investment - subsidy;
     const monthlySavings = safeBill;

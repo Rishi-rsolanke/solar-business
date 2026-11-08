@@ -9,5 +9,5 @@ export const BUSINESS = {
     { name: 'Lokesh Chavhan', phone: '8983539746', display: '89835 39746' },
   ],
   whatsappNumber: '917498019513',
-  brandPartners: ['Loom Solar', 'Waaree', 'UTL Solar', 'Adani Solar'],
+  brandPartners: ['Waaree', 'Loom Solar', 'UTL Solar', 'Adani Solar'],
 } as const;

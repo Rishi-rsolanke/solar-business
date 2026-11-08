@@ -36,8 +36,8 @@ function Hero() {
             className="font-display font-extrabold text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-white leading-[1.1] mb-6 animate-fade-up"
             style={{ animationDelay: '0.1s' }}
           >
-            Aapla Ghar,<br />
-            <span className="text-shine">Aapli Bijli,</span><br />
+            आपलं घर,<br />
+            <span className="text-shine">आपली वीज,</span><br />
             Zero Bill! <span className="inline-block animate-float">⚡</span>
           </h1>
 
